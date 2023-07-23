@@ -21,7 +21,7 @@ En mi segundo año de estudio, trabajé en este emocionante proyecto de API util
 ## Educación
 
 [Instituto Superior Manuel Belgrano](https://www.iesmb.edu.ar/bel/) - (Inicio ciclo 2021  - Cursando ultimo semestre)
-Tecnico superior en Desarrollo de software
+Técnico superior en Desarrollo de Software
 
 ---
 ## Cursos
