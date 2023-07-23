@@ -51,6 +51,6 @@ Técnico superior en Desarrollo de Software
 
 ## Contacto
 
-![InonoCorreo](iconos/gmail.png)[Correo Electronico](espinoza.luis.alberto1981@gmail.com)
-![icono li](iconos/linkedin.png)[LinkedIn](www.linkedin.com/in/luis-alberto-espinoza)
+[![IconoCorreo](iconos/gmail.png)](mailto:espinoza.luis.alberto1981@gmail.com) [Correo Electrónico](mailto:espinoza.luis.alberto1981@gmail.com) 
+[![IconoLinkedIn](iconos/linkedin.png)](https://www.linkedin.com/in/luis-alberto-espinoza) [LinkedIn](https://www.linkedin.com/in/luis-alberto-espinoza)
 ![ico git](iconos/github.png)[GitHub](https://github.com/Luis-Alberto-Espinoza)
