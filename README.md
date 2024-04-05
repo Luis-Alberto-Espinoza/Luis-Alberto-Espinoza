@@ -1,13 +1,14 @@
 ## Resumen
 
-¡Hola! Soy Luis, un estudiante apasionado y autodidacta con un amor por la tecnología y el aprendizaje constante.  En mi tiempo libre, disfruto trabajando en proyectos de programación y explorando tecnologías emergentes.
+
+¡Hola! Soy Luis, un apasionado del mundo tecnológico y un autodidacta comprometido con el aprendizaje continuo. Con una sólida formación académica en Desarrolo de Software, perfeccionando mi habilidad para abordar desafíos técnicos como mis habilidades blandas. Para compartir conocimientos de manera clara y comprensible.
 
 ---
 
 ## Habilidades
 
-Lenguajes de Programación: JavaScript, Java, Bash, Python.
-Tecnologías y Herramientas: Git, HTML/CSS, MySQL, Node.js.
+Lenguajes de Programación: JavaScript, Java, Bash, Python, MySQL.
+Tecnologías y Herramientas: Git, HTML/CSS, Node.js.
 
 ---
 
@@ -23,34 +24,43 @@ En mi segundo año de estudio, trabajé en este emocionante proyecto de API util
 
 ## Educación
 
-[Instituto Superior Manuel Belgrano](https://www.iesmb.edu.ar/bel/) - (Inicio ciclo 2021  - Cursando ultimo semestre)
-Técnico superior en Desarrollo de Software
+[Instituto Superior Manuel Belgrano](https://www.iesmb.edu.ar/bel/)
+ **Título** : Técnico superior en Desarrollo de Software
 
 ---
 
 ## Cursos
 
-* EGG Educación. JAVA Programación Web Full Stack
-* Universidad Tecnológica Nacional. Testing Manual y metodologías Ágil
+* EGG Educación. **JAVA Programación Web Full Stack**
+* Universidad Tecnológica Nacional. **Testing Manual y Metodologías Ágil**
+* Academia hack4u.io. **Bash Script**
+* Academia Le Wagon. **JavaScript**
+* Cisco Networking Academy. **JavaScript**
+* Academia de Platzi. **Python**
 
 ---
 
 ## Intereses
 
-* Apasionado por el mundo Linux: Exploro distintas distribuciones (Debian, CentOS, Arch Linux) y utilizo scripts en Python y Bash para automatizar tareas de gestión, instalación y configuración.
+* Curioso por el mundo Linux: Exploro distintas distribuciones (Debian, CentOS, Arch Linux) y utilizo scripts en Python y Bash para automatizar tareas de gestión, instalación y configuración.
 * Aprendiendo desarrollo Android: Creando aplicaciones básicas para familiarizarme con el desarrollo móvil y explorar sus posibilidades.
+* Interesado en convertirme en un desarrollador DevOps: Busco adquirir habilidades en herramientas de automatización, gestión de la infraestructura en la nube y prácticas de integración y entrega continua para mejorar la eficiencia y la calidad en el desarrollo de software.
 
 ---
 
 ## Objetivos
 
-* Finalizar mi tecnicatura antes de finales del año 2023.
+* Ampliar mis conocimientos en el desarrollo frontend, específicamente en los frameworks Angular y React.
 * Continuar mi aprendizaje autodidacta en Bash, Python y desarrollo Android.
+* Dominar herramientas de automatización como Ansible, Terraform y Jenkins.
+* Profundizar en el despliegue de aplicaciones en entornos de nube como AWS, Azure y Google Cloud Platform.
+* Mejorar mis habilidades en la gestión de contenedores utilizando Docker y Kubernetes.
+* Aprender sobre monitoreo y análisis de infraestructura con herramientas como Prometheus y Grafana.
 
 ---
 
 ## Contacto
 
-[![IconoCorreo](iconos/gmail.png)](mailto:espinoza.luis.alberto1981@gmail.com) [Correo Electrónico](mailto:espinoza.luis.alberto1981@gmail.com) 
+[![IconoCorreo](iconos/gmail.png)](mailto:espinoza.luis.alberto1981@gmail.com) [Correo Electrónico](mailto:espinoza.luis.alberto1981@gmail.com)
 [![IconoLinkedIn](iconos/linkedin.png)](https://www.linkedin.com/in/luis-alberto-espinoza) [LinkedIn](https://www.linkedin.com/in/luis-alberto-espinoza)
 ![ico git](iconos/github.png)[GitHub](https://github.com/Luis-Alberto-Espinoza)
