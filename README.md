@@ -6,10 +6,20 @@ Actualmente, mi foco está en el desarrollo de herramientas de automatización c
 
 ---
 
-## Habilidades
+## Habilidades Técnicas
 
-Lenguajes de Programación: JavaScript, Java, Bash, Python, MySQL.
-Tecnologías y Herramientas: Git, HTML/CSS, Node.js.
+### Lenguajes de Programación
+* **JavaScript**, **Java**, **C#**, **Python**, **Bash**
+
+### Desarrollo & Bases de Datos
+* **Backend:** Node.js (Electron.js)
+* **Frontend:** HTML5, CSS3, Thymeleaf
+* **Bases de Datos:** MySQL (SQL)
+
+### Herramientas & Plataformas
+* **Control de Versiones:** Git (GitHub, GitLab)
+* **Contenerización:** Docker
+* **Sistemas Operativos:** Windows, Linux (Distribuciones Debian-based)
 
 ---
 
@@ -22,10 +32,10 @@ Aplicación de escritorio desarrollada con Electron, Node.js y Puppeteer para au
 Sistema web desarrollado con Java y Spring Boot que sigue la arquitectura MVC. Permite gestionar la ponderación de profesores, utilizando tecnologías como SQL para la base de datos, Thymeleaf y Bootstrap para el frontend, y JavaScript para la interactividad de las vistas.
 
 [Juego &#34;El Cerdo&#34; (Java)](https://github.com/Luis-Alberto-Espinoza/Juego_-El_Cerdo-_Java)
-Durante mi primer año de estudio, desarrollé un proyecto llamado "El Cerdo". En este juego, puse en práctica los conceptos que estaba aprendiendo en ese momento, como programación orientada a objetos, manejo de clases, listas y más. Fue una excelente oportunidad para consolidar mis conocimientos mientras creaba algo divertido y entretenido.
+Juego de dados "El Cerdo". En este juego, puse en práctica los conceptos como programación orientada a objetos, manejo de clases, listas y más. Fue una excelente oportunidad para consolidar mis conocimientos mientras creaba algo divertido y entretenido.
 
 [API Reserva de Vehículo (Java + Spring)](https://github.com/Luis-Alberto-Espinoza/reservaVehiculo)
-En mi segundo año de estudio, trabajé en este emocionante proyecto de API utilizando Java con el framework Spring y siguiendo el patrón de diseño Modelo-Vista-Controlador (MVC). La API permite gestionar distintos actores, como reservas, empleados, contratos y clientes. En la capa del modelo, utilicé tecnologías como Thymeleaf y Bootstrap para una interfaz atractiva y amigable.
+Proyecto de API utilizando Java con el framework Spring y siguiendo el patrón de diseño Modelo-Vista-Controlador (MVC). La API permite gestionar distintos actores, como reservas, empleados, contratos y clientes. En la capa del modelo, utilicé tecnologías como Thymeleaf y Bootstrap para una interfaz atractiva y amigable.
 
 ---
 
@@ -44,15 +54,15 @@ En mi segundo año de estudio, trabajé en este emocionante proyecto de API util
 * Academia Le Wagon. **JavaScript**
 * Cisco Networking Academy. **JavaScript**
 * Academia de Platzi. **Python**
+* EGG Educación. **Inteligencia Artificial**
 
 ---
 
 ## Intereses
 
-*   Desarrollo de herramientas basadas en IA para la productividad, como plugins de navegador para conversión de voz a texto y viceversa.
-*   Automatización de procesos web con Electron, Node.js y Puppeteer, enfocado en plataformas de gestión gubernamental.
-*   Creación de aplicaciones de escritorio con Electron para la extracción y conversión de datos desde PDF a Excel, orientado al sector contable.
-*   Experimentación en Machine Learning con Python, incluyendo la construcción de pequeñas redes neuronales para clasificación de imágenes.
+*   Desarrollo de herramientas basadas en IA para la productividad, como plugins de navegador.
+*   Automatización de procesos web con Electron, Node.js y Puppeteer, enfocado en plataformas de gestión gubernamental. Ademas herramientas como para la extracción y conversión de datos desde PDF a Excel, orientado al sector contable.
+*   Experimentación en Machine Learning con Python, incluyendo la construcción de pequeñas redes neuronales para clasificación de imágenes, procesar texto.
 *   Investigación activa sobre las últimas herramientas y avances en el campo de la Inteligencia Artificial.
 
 ---
@@ -67,6 +77,17 @@ En mi segundo año de estudio, trabajé en este emocionante proyecto de API util
 
 ## Contacto
 
-[![IconoCorreo](iconos/gmail.png)](mailto:espinoza.luis.alberto1981@gmail.com) [Correo Electrónico](mailto:espinoza.luis.alberto1981@gmail.com)
-[![IconoLinkedIn](iconos/linkedin.png)](https://www.linkedin.com/in/luis-alberto-espinoza) [LinkedIn](https://www.linkedin.com/in/luis-alberto-espinoza)
-![ico git](iconos/github.png)[GitHub](https://github.com/Luis-Alberto-Espinoza)
+<p align="left">
+    <a href="mailto:espinoza.luis.alberto1981@gmail.com" style="display: inline-block; margin-right: 60px;">
+        <img src="iconos/gmail.png" alt="IconoCorreo" width="24" style="vertical-align: middle;"/>
+        <span style="vertical-align: middle;">Correo Electrónico</span>
+    </a>
+    <a href="https://www.linkedin.com/in/luis-alberto-espinoza" style="display: inline-block; margin-right: 60px;">
+        <img src="iconos/linkedin.png" alt="IconoLinkedIn" width="24" style="vertical-align: middle;"/>
+        <span style="vertical-align: middle;">LinkedIn</span>
+    </a>
+    <a href="https://github.com/Luis-Alberto-Espinoza" style="display: inline-block;">
+        <img src="iconos/github.png" alt="ico git" width="24" style="vertical-align: middle;"/>
+        <span style="vertical-align: middle;">GitHub</span>
+    </a>
+</p>
